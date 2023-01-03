@@ -1,0 +1,5 @@
+{
+  "cache": "../cache",
+  "raw_dir": "raw",
+  "corpus_dir": "corpus"
+}

@@ -1,0 +1,6 @@
+{
+  "cache": "../cache",
+  "raw_data": "data/raw",
+  "tokenizer_name": "bert-base-multilingual-cased",
+  "output_path": "data/tokenized"
+}
