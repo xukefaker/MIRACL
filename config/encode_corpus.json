@@ -1,0 +1,8 @@
+{
+  "model_path": "output_model/bert-base-multilingual-cased_cls",
+  "max_seq_len": 256,
+  "input_file": "data/corpus",
+  "output_file": "data/indices",
+  "pool_type": "cls",
+  "cache_dir": "cache"
+}

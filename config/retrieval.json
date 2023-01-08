@@ -1,0 +1,10 @@
+{
+  "topK": 100,
+  "model_path": "output_model/bert-base-multilingual-cased_cls",
+  "pool_type": "cls",
+  "max_seq_len": 256,
+  "index_file": "data/indices",
+  "input_file": "data/raw",
+  "output_file": "retrieval_result",
+  "cache_dir": "cache"
+}
